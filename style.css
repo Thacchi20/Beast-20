@@ -302,4 +302,13 @@ footer span a:hover{
   font-family: 'Ubuntu Condensed', sans-serif;
   padding-top: 25px;
 }
+.flogo{
+  background: #212121;
+  text-align: center;
+  padding-top: 20px;
+}
 
+.flogo img{
+  height: 25%;
+  width: 25%;
+}
