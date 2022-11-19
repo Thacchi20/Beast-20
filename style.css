@@ -252,3 +252,19 @@ footer span a:hover{
   font-size: 14px;
   font-family: 'Ubuntu Condensed', sans-serif;
 }
+
+.abtweb{
+  color: #66ff99;
+  background: #212121;
+  padding-left: 23px;
+  font-size: 21px;
+  padding-top: 5px;
+  padding-right: 100px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.bar1{
+  background: #212121;
+  color: #66ff99;
+  padding-left: 50px;
+}
