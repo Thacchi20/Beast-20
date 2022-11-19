@@ -254,7 +254,7 @@ footer span a:hover{
 }
 
 .abtweb{
-  color: #66ff99;
+  color: #00fbff;
   background: #212121;
   padding-left: 23px;
   font-size: 21px;
@@ -265,6 +265,41 @@ footer span a:hover{
 
 .bar1{
   background: #212121;
-  color: #66ff99;
-  padding-left: 50px;
+  color: #fff700;
+  padding-left: 55px;
 }
+
+.Gotid{
+  color: #66ff99;
+  background: #212121;
+  padding-left: 50px;
+  font-size: 14px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  padding-top: 25px;
+}
+
+.sideas{
+  color: #00fbff;
+  background: #212121;
+  padding-left: 23px;
+  font-size: 21px;
+  padding-top: 5px;
+  padding-right: 100px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.bar2 {
+  background: #212121;
+  color: #FFF700;
+  padding-left: 55px;
+}
+
+.abtme{
+  color: #66ff99;
+  background: #212121;
+  padding-left: 80px;
+  font-size: 14px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  padding-top: 25px;
+}
+
